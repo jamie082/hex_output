@@ -1,5 +1,4 @@
 /* Hex Algorithm 
-J Morrissey 
 7/5/2021
 */
 
